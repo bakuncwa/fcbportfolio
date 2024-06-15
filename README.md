@@ -4,4 +4,4 @@
   <li><a href ="https://bakuncwa.github.io/fcbportfolio/"><b>[LINK]</b></a> Deployed</li>
 </p> </ul>
 
-Note: to add mediaquery for max-width: 1920px
+Note: to add iframe mediaquery for max-width: 1920px
